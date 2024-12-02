@@ -1,4 +1,4 @@
-># WellnessMate – Aa Task Management app with a Virtual Pet.
+># WellnessMate – A Task Management app with a Virtual Pet.
 
 Welcome to **WellnessMate** – We are an organization task management app that believes in the power of fun in productivity! Work through your daily routine while also keeping your cute little virtual companion happy. Don’t let the pandemic get in the way of your motivation and productivity- with WellnessMate it’s possible!
 
