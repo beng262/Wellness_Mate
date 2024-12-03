@@ -16,7 +16,7 @@ Welcome to **WellnessMate** – We are a student group that believes in the powe
 ## 📱 Technologies Used
 - **Flutter**: Generation of applications that run on both the Android and IoS.
 - **Dart**: Programming language for flutter framework is dart.
-- **Firebase**: Many users think that it is used as the backend for cloud storage and notifications.
+- **Firebase**: It is used as the backend for cloud storage and notifications.
 
 ---
 
